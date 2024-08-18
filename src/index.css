@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    /* White background for a clean look */
+   font-family: "Poppins", sans-serif;
+   --header-bg: #7091E6;
+   background-color:#3D52A0;
+   --page-bg:#3D52A0;
+   --anchor-tags:#EDE8F5;
+   --footer-bg: linear-gradient(to right, #FF6F61, #FFB74D); /* Coral to Amber Gradient */
+   --button1-bg: #ADBBDA;
+   --button2-bg: #7091E6;
+   --div-color:#ADBBDA;;
+   --span-color:#FFFFFF;
+}
+
